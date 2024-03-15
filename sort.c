@@ -5,7 +5,7 @@
 
 // Connor McDaniel
 // COP 3502C
-// Programming Assignment 1
+// Programming Assignment 8
 // 3/14/2024
 
 int extraMemoryAllocated;
